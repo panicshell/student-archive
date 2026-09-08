@@ -1,0 +1,36 @@
+# Python cache/compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Build/packaging output
+build/
+dist/
+*.egg-info/
+*.spec
+
+# PyInstaller manifest
+*.manifest
+
+# Database
+students.db
+*.db
+*.sqlite3
+
+# Editor/IDE settings
+.vscode/
+.idea/
+*.swp
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
